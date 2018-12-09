@@ -10,3 +10,7 @@ Then, we divide the video into frames and remove the aforementioned effects from
 After the video is processed and a *clean(effects nullified)* sequence is in hand, we implement detection and tracking on the video sequence. The algorithm collects sign contours **detected** in each video frame and passed them through LeNet architecture for **recognition** of the sign. <br/>
 >As performing detection on each and every video frame is computationally and temporally, we have employed Optical Flow algorithm to obtain the track of a particular traffic sign in a video sequence. Optical Flow provides a Bounding Box of the contour for the upcoming frame.
 
+## Data set used:
+1. CURE-TSD Data set
+2. Tencent 100k
+3. GTSRB
