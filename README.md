@@ -18,7 +18,7 @@ After the video is processed and a *clean(effects nullified)* sequence is in han
 Codes for the same present in the folder.
 
 ## LeNet Architecture:
-![alt text](https://github.com/himol7/Traffic-Sign-Detection-and-Classification-Under-Challenging-Conditions/blob/master/images/le_net.png)
+![alt text](https://github.com/himol7/Traffic-Sign-Detection-and-Classification-Under-Challenging-Conditions/blob/master/images/LeNet.png)
 
 Source: https://github.com/muddassir235/German-Traffic-Sign-Classifier/tree/master
 
