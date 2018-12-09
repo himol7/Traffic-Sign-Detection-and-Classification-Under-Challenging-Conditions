@@ -14,6 +14,7 @@ Codes for the same present in the folder.
 ## Optical Flow
 After the video is processed and a *clean(effects nullified)* sequence is in hand, we implement detection and tracking on the video sequence. The algorithm collects sign contours **detected** *(contours detection using Hough Transforms)* in each video frame and passes them through LeNet architecture for **recognition** of the sign. <br/>
 >As performing detection on each and every video frame is computationally and temporally, we have employed Optical Flow algorithm to obtain the track of a particular traffic sign in a video sequence. Optical Flow provides a Bounding Box of the contour for the upcoming frame.<br/>
+
 Codes for the same present in the folder.
 
 ## LeNet Architecture:
